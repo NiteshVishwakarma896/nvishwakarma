@@ -4,8 +4,8 @@ import tailwindcss from "tailwindcss";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  ssr:{
-    noExternal:['react-icons']
-  },
+  // ssr:{
+  //   noExternal:['react-icons']
+  // },
   plugins: [react(),tailwindcss()],
 })
