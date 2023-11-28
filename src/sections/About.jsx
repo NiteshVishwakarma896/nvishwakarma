@@ -11,7 +11,7 @@ export default function About() {
         design and, identify ideas to improve system performance and
         availability.
       </p>
-      <figure class="quote">
+      <figure className="quote">
         <blockquote>
             Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
         </blockquote>

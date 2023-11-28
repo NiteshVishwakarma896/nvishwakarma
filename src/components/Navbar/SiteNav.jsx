@@ -10,7 +10,7 @@ export default function SiteNav(){
         <NavbarMenuToggle aria-label={isMenuOpen ? "Close menu" : "Open menu"} />
       </NavbarContent>
       <NavbarBrand>
-        <p style={{fontSize:'1.4rem', fontWeight:'normal'}} className="text-inherit">nvishwakarma</p>
+        <a href="https://nvishwakarma.in/" style={{fontSize:'1.4rem', fontWeight:'normal'}} className="text-inherit">nvishwakarma</a>
       </NavbarBrand>
 
 
