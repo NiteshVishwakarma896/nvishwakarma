@@ -1,3 +1,5 @@
+"use client";
+
 import {  Navbar,   NavbarBrand,   NavbarContent,   NavbarItem,   Link,  Button,  NavbarMenuItem, NavbarMenuToggle, NavbarMenu} from "@nextui-org/react";
 import { useState } from "react";
 

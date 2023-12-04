@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Blogs() {
   return (
         <div id='blogs' className="relative z-20 h-fit py-16 flex items-center justify-center overflow-hidden">
@@ -12,7 +10,7 @@ export default function Blogs() {
                     <q className='font-extralight text-2xl'>Unix was not designed to stop people from doing stupid things, because that would also stop them from doing clever things</q>
                     <p className='font-extralight text-lg mt-2'>— Douglas Gwyn</p>
                     <p className='font-light text-small mt-24 text-center'>
-                        Loosely designed in Adobe XD and coded in Visual Studio Code by yours truly Nitesh. Built with React.js and Tailwind CSS and NextUI, deployed with Netlify.
+                        Loosely designed in Adobe XD and coded in Visual Studio Code by yours truly Nitesh. Built with Next.js and Tailwind CSS and NextUI, deployed with Netlify.
                     </p>
                     
                 </div>

@@ -1,5 +1,6 @@
+"use client";
+
 import React from 'react'
-import { FaGithub } from "react-icons/fa";
 import ProjectCard from '../Cards/ProjectCard';
 
 export default function Projects() {
