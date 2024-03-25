@@ -27,11 +27,11 @@ export default function SiteNav(){
             Projects
           </Link>
         </NavbarItem>
-        <NavbarItem>
+        {/* <NavbarItem>
           <Link color="foreground" href="#blogs">
             Blogs
           </Link>
-        </NavbarItem>
+        </NavbarItem> */}
       </NavbarContent>
 
       <NavbarMenu>
